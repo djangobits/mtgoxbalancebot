@@ -1,6 +1,6 @@
 ## About the bot
 
-The twitter bot @MtGoxBalanceBot observes the current balances and outgoing transactions on all known MtGox addresses supposedly held by the MtGox trustee. 
+The twitter bot [@MtGoxBalanceBot](https://twitter.com/mtgoxbalancebot) observes the current balances and outgoing transactions on all known MtGox addresses supposedly held by the MtGox trustee. 
 
 Outgoing transactions are also tracked and will result in a tweet containing the address and amount sent. 
 
