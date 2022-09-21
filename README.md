@@ -31,14 +31,14 @@ Nobody (maybe except the trustee) currently (2022/09/21) knows. On September 15,
 ### OK. But when MtGox coins?
 What we know is that ***some things need to happen before any fiat or crypto payments from the trustee can be expected*** (checkbox indicates if this was already done): 
 
-- [ ] All creditors will need to go through KYC with the trustee
-- [ ] Trustee has to inform about the "Intermediate Repayment" which would allow those creditors who will choose the "Final Payment" (FP) option in contrast to the "Early Lump Sum Payment" (ELSP) option, to receive something together with those who have chosen ELSP.
-- [ ] creditors need to select ELSP or FP in "The System"
-- [ ] creditors need to select payout in crypto or fiat in "The System" (the trustee already asked about this, but only as an opinion poll, not as a binding decision)
-- [ ] In order to receive the fiat payments all creditors are entitled to, bank account info has to be collected in "The System"
-- [ ] The trustee needs to inform about the exchanges / agents he selected for the distribution of crypto
-- [ ] Creditors need to register with these exchanges and probably go through KYC again (assuming that KYC data won't be passed from the trustee to the exchange.
-- [ ] Coins need to move to the designated exchanges
+- [ ]  All creditors will need to go through KYC with the trustee
+- [ ]  Trustee has to inform about the "Intermediate Repayment" which would allow those creditors who will choose the "Final Payment" (FP) option in contrast to the "Early Lump Sum Payment" (ELSP) option, to receive something together with those who have chosen ELSP.
+- [ ]  Creditors need to select ELSP or FP in "The System"
+- [ ]  Creditors need to select payout in crypto or fiat in "The System" (the trustee already asked about this, but only as an opinion poll, not as a binding decision)
+- [ ]  In order to receive the fiat payments all creditors are entitled to, bank account info has to be collected in "The System"
+- [ ]  The trustee needs to inform about the exchanges / agents he selected for the distribution of crypto
+- [ ]  Creditors need to register with these exchanges and probably go through KYC again (assuming that KYC data won't be passed from the trustee to the exchange.
+- [ ]  Coins need to move to the designated exchanges
 
 Well informed observers do not believe that any BTC will be claimable in 2022. We also do not know to what extent the trustee will speed up the distribution by doing things in parallel. We had seen in the past that every phase (eg onboarding of all Z-creditors (smal sum creditors)) took a few months and nothing else happened in the meantime. The trustee is not known to do things in parallel. 
 
