@@ -10,7 +10,7 @@ The addresses observed have been identified by Kim Nilsson ([@nikuhodai](https:/
 
 ## Note
 
-An outgoing transaction from one of this addresses does not necessarily mean these coins will be distributed or sold shortly after. It just means they are being moved. Don't jump to conclusions too quick.
+An outgoing transaction from one of these addresses does not necessarily mean these coins will be distributed or sold shortly after. It just means they are being moved. Might also be reorganisation in preparation of distribution. Don't jump to conclusions too quick.
 
 
 ## Made by
@@ -20,7 +20,7 @@ This bot was stitched together by [@djangobits](https://twitter.com/djangobits),
 ## Frequently asked questions about MtGox coins
 
 ### What balances is the trustee currently holding)?
-As declared in documents published during creditors meetings ([document here](http://www.mtgox.com/img/pdf/20191001_report.pdf)), the trustee currently (2022/09/21) holds ***141,686.35371099 BTC (Bitcoin)*** and ***142,846.35166254 BCH (Bitcoin Cash)***. The trustee also has or had BSV (Bitcoin Shitty Version), but it's unknown if it was already dumped as the trustee communicated in the Rehabilitation Plan Draft.
+As declared in documents published during creditors meetings ([document here](http://www.mtgox.com/img/pdf/20191001_report.pdf)), the trustee currently (2022/09/21) holds ***141,686.35371099 BTC (Bitcoin)*** and ***142,846.35166254 BCH (Bitcoin Cash)*** as well as 69'776'002'441 JPY (483’512’808 USD) from BTC sales in 2018 and MtGox bank accounts. The trustee also has or had BSV (Bitcoin Shitty Version), but it's unknown if it was already dumped as the trustee communicated in the Rehabilitation Plan Draft.
 
 ### Will the trustee dump all crypto coldings for fiat?
 No. Creditors will be able to select, if they want their share to be paid in crypto or in fiat. If they select crypto, they can claim them with the exchange designated by the trustee. If they select fiat, the trustee or the designated exchange will sell those coins and payout fiat. We have no information if this will be done on the open market or OTC.
