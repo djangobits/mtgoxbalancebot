@@ -51,7 +51,7 @@ We don't know. But imagine you were a creditor, seeing BTC going to 69k$ in 2021
 ### Who are the biggest MtGox creditors?
 The biggest creditors are the claim buyers from Fortress (Michael Hourigan), Capital 507 (Thomas Braziel) and Bitcoinbuilder (Josh Jones). Black Rock is not known to be a claim buyer. The Black Rock story is probably just fud and conspiracy theory.
 
-
+### Questions?
 If you have questions, remarks or corrections, please let me know via Twitter,
 Sincerly yours,
 [@djangobits](https://twitter.com/djangobits)
