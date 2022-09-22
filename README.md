@@ -1,6 +1,6 @@
 ## About the bot
 
-The twitter bot [@MtGoxBalanceBot](https://twitter.com/mtgoxbalancebot) observes the current balances and outgoing transactions on all known MtGox addresses supposedly held by the MtGox trustee. 
+The twitter bot [@MtGoxBalanceBot](https://twitter.com/mtgoxbalancebot) observes the current balances and outgoing transactions on all known MtGox BTC addresses supposedly held by the MtGox trustee. 
 
 Outgoing transactions are also tracked and will result in a tweet containing the address and amount sent. 
 
@@ -31,7 +31,7 @@ Nobody (maybe except the trustee) currently (2022/09/21) knows. On September 15,
 ### OK. But when MtGox coins?
 What we know is that ***some things need to happen before any fiat or crypto payments from the trustee can be expected*** (a ticked checkbox indicates if this was already done): 
 
-- [ ]  All creditors will need to go through KYC with the trustee
+- [x]  All creditors will need to go through KYC with the trustee
 - [ ]  The Trustee has to inform creditors about the "Intermediate Repayment" option which would allow those creditors who will choose the "Final Payment" (FP) option (in contrast to the "Early Lump Sum Payment" (ELSP) option), to receive something together with those who have chosen ELSP.
 - [ ]  Creditors need to select ELSP or FP in "The System"
 - [ ]  Creditors need to select payout in crypto or fiat in "The System" (the trustee already asked about this, but only as an opinion poll, not as a binding decision)
