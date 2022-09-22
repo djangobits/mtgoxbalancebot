@@ -23,7 +23,7 @@ This bot was stitched together by [@djangobits](https://twitter.com/djangobits),
 As declared in documents published during creditors meetings ([document here](http://www.mtgox.com/img/pdf/20191001_report.pdf)), the trustee currently (2022/09/21) holds ***141,686.35371099 BTC (Bitcoin)*** and ***142,846.35166254 BCH (Bitcoin Cash)*** as well as 69'776'002'441 JPY (483’512’808 USD) from BTC sales in 2018 and MtGox bank accounts. The trustee also has a similar amount of BSV (Bitcoin Shitty Version) on the same addresses, but according to the Rehabilitation Plan, all other forks except BCH will be dumped.
 
 ### Will the trustee dump all crypto holdings for fiat?
-No. Creditors will be able to select, if they want their share to be paid in crypto or in fiat. If they select crypto, they can claim them with the exchange designated by the trustee. If they select fiat, the trustee or the designated exchange will sell those coins and payout fiat. We have no information if this will be done on the open market or OTC.
+No. Creditors will be able to select, if they want their share to be paid in crypto or in fiat. If they select crypto, they can claim them with the exchange designated by the trustee. If they select fiat, the trustee or the designated exchange will probably sell those coins and payout fiat. We have no information if this will be done on the open market or OTC.
 
 ### When will the MtGox coins be released?
 Nobody (maybe except the trustee) currently (2022/09/21) knows. On September 15, 2022, the ***Setting of Assignment, etc. Restriction Reference Period*** started as announced [here](http://www.mtgox.com/img/pdf/20220831_announcement_en.pdf). During the Setting of Assignment, etc. Restriction Reference Period, transfers of claims are not permitted. That is all the documents said. Many observers thought that the distribution of funds will start from September 15, 2022, but the previous experiences with the trustee should make it clear that this won't happen so soon.
@@ -43,7 +43,13 @@ What we know is that ***some things need to happen before any fiat or crypto pay
 Well informed observers do not believe that any BTC will be claimable in 2022. We also do not know to what extent the trustee will speed up the distribution by doing things in parallel. We had seen in the past that every phase (eg onboarding of all Z-creditors (small sum creditors)) took a few months and nothing else happened in the meantime. The trustee is not known to do things in parallel and many of his steps need formal acceptance of the Tokyo court that he was designated by. These formal processes usually take a few weeks.
 
 ### Will all crypto holdings be released at once?
-No. Those creditors who choose the "Final Payment" option will most likely get their last portion once pending ligitation (eg. by Coinlab) is resolved. These creditors will be able to get an early crypto payment through the "Intermediate Repayment", which should happen together with the "Early Lump Sum Payments". But currently, we have no information about the "Intermediate Repayment" and creditors couln't yet choose one of these options, so we don't know how much of the BTC will be held back for the "Final Payment".
+No. There will be three phases with bigger releases (while the order and size cannot be known yet): 
+
+- A) When the trustee or the designated exchange sell the BTC of those who selected fiat payments. 
+- B) The distribution to those who selected ELSP and Intermediate Repayments. 
+- C) The distribution of the Final Payment. 
+
+Those creditors who choose the "Final Payment" option will most likely get their last portion once pending ligitation (eg. by Coinlab) is resolved. These creditors will be able to get an early crypto payment through the "Intermediate Repayment", which should happen together with the "Early Lump Sum Payments". But currently, we have no information about the "Intermediate Repayment" and creditors couln't yet choose one of these options, so we don't know how much of the BTC will be held back for the "Final Payment". Also we don't know how many will select fiat payments of their crypto holdings. So we also do not know how much (if any, seeing the pile of fiat the trustee already holds) will be sold by the trustee or the designated exchanges
 
 ### Will MtGox creditors sell all their coins, once they get them?
 We don't know. But imagine you were a creditor, seeing BTC going to 69k$ in 2021, would you then sell them below 20k$ in 2022? Also, those creditors in urgent need of money had the occasion to sell their claims to claim buyers and some already did. In informal votes in a telegram group more than 60% of more than 250 creditors indicated they won't sell their crypto once they get it. Some said they would even buy more for the fiat portion they will receive from the trustee. While this is all anectotal, it seems obvious to me that most creditors, which are crypto OGs, won't sell at the bottom of the 2022 bear market.
@@ -56,7 +62,7 @@ If you have questions, remarks or corrections, please let me know via Twitter,
 Sincerly yours,
 [@djangobits](https://twitter.com/djangobits)
 
-Last update: 2022/09/21
+Last update: 2022/09/22
 
 
 
