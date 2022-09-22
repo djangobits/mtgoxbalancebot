@@ -69,8 +69,11 @@ Last update: 2022/09/22
 ### Appendix 1 - List of all known addresses
 
 [12KkeeRkiNS13GMbg7zos9KRn9ggvZtZgx](https://blockchair.com/search?q=12KkeeRkiNS13GMbg7zos9KRn9ggvZtZgx)
+
 [12T4oSNd4t9ty9fodgNd47TWhK35pAxDYN](https://blockchair.com/search?q=12T4oSNd4t9ty9fodgNd47TWhK35pAxDYN)
+
 [13ahgw8sM95EDbugT3tdb8TYoMU46Uw7PX](https://blockchair.com/search?q=13ahgw8sM95EDbugT3tdb8TYoMU46Uw7PX)
+
 [13dXFMyG22EsUsvaWhCqUo7SXuX7rBPog6](https://blockchair.com/search?q=13dXFMyG22EsUsvaWhCqUo7SXuX7rBPog6)
 [13sXfpp2V16nnxYvW9FHHoBdMa3k98uJw8](https://blockchair.com/search?q=13sXfpp2V16nnxYvW9FHHoBdMa3k98uJw8)
 [13xGCc4TPSYY9GYxBGVNox82KxyjkFnxMX](https://blockchair.com/search?q=13xGCc4TPSYY9GYxBGVNox82KxyjkFnxMX)
