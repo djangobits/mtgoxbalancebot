@@ -32,4 +32,4 @@ Japan
 
 [Your Name]
 
-あなたのMtGox債権者番号 [your creditor reference number here]
+債権者番号：[your creditor reference number here, the x,y,z number without x,y or z]
