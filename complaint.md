@@ -3,11 +3,11 @@
 [City, Postal Code]
 [Date]
 
-東京地裁民事第20部 
-1-chōme-1-4 Kasumigaseki 
-Chiyoda City 
-Tokyo 100-8920 
-Japan 
+東京地裁民事第20部  
+1-chōme-1-4 Kasumigaseki  
+Chiyoda City  
+Tokyo 100-8920  
+Japan  
 
 東京地方裁判所平成 29 年 (再) 第 35 号
 再生値務者 株式会社MTGOX
