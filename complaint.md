@@ -40,16 +40,16 @@ The address you put on your envelope:
 
 東京地裁民事第20部
 														
-1-chōme-1-4 Kasumigaseki   
-Chiyoda City   
-Tokyo 100-8920   
-Japan   
+**1-chōme-1-4 Kasumigaseki**   
+**Chiyoda City**   
+**Tokyo 100-8920**   
+**Japan**   
 
-If you hand-write it coz your printer sucks, then write:
+If you hand-write it coz your printer sucks, then just write the following (and place your bet on the post office of the court):
 
-Tokyo District Court, Civil Section 20		
+**Tokyo District Court, Civil Section 20**		
 
-1-chōme-1-4 Kasumigaseki   
-Chiyoda City   
-Tokyo 100-8920   
-Japan   
+**1-chōme-1-4 Kasumigaseki**   
+**Chiyoda City**   
+**Tokyo 100-8920**   
+**Japan**   
