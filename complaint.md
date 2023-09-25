@@ -1,7 +1,7 @@
-[Your Name]  
-[Your Address]  
-[City, Postal Code]  
-[Date]  
+[Your Name]   
+[Your Address]   
+[City, Postal Code]   
+[Date]   
 
 東京地裁民事第20部  
 1-chōme-1-4 Kasumigaseki  
