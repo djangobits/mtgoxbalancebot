@@ -16,15 +16,16 @@ Subject: Concerns Regarding MtGox Rehabilitation Proceedings
 
 Respected Members of the Court,   
 
-I am writing to formally express my deep concerns and dissatisfaction regarding the MtGox rehabilitation proceedings and the recurring extensions of the repayment deadline. As a creditor in these proceedings, I believe it is my obligation to communicate my concerns and seek clear explanations on several vital matters.
 
-First and foremost, it is unacceptable that the repayment deadlines for the MtGox rehabilitation plan have been repeatedly extended. The original deadlines were established with the expectation that they would be adhered to, but the recurring delays have caused significant uncertainty and financial burden for creditors, including myself. We have been patiently awaiting resolution, and these repeated extensions have eroded our confidence in the process.
+I am writing to express serious concerns and dissatisfaction regarding the MtGox rehabilitation proceedings and the repeatedly extended deadlines. As a creditor in these proceedings, I believe it is my duty to convey my concerns and request clear explanations on several important matters.
 
-Secondly, it is concerning that the Court has accepted these extensions without providing creditors with clear and transparent explanations. The Court's role in ensuring the fairness and efficiency of these proceedings is of utmost importance, and creditors rely on the Court to confirm how it is involved and overseeing the process. The lack of communication regarding the reasons behind these extensions raises doubts about the Court's oversight and involvement.
+Firstly, it is unacceptable that the deadlines for the MtGox rehabilitation plan have been repeatedly extended. The original deadlines were set with the understanding that they would be adhered to, but the repeated delays have caused significant uncertainty and financial burden for creditors, including myself. We have been waiting for a resolution, and these repeated extensions have eroded our trust in the process.
 
-Lastly, and perhaps most importantly, it is crucial that we receive detailed and comprehensive explanations for each extension of the repayment deadline. Without such information, we are left in the dark, unable to make informed decisions or take measures to secure our financial futures. We have the right to know why these delays are occurring, what steps are being taken to prevent future setbacks, and what the realistic timeline for resolution is.
+Secondly, it is concerning that neither the court, which accepts these extensions, nor the Rehabilitation Trustee, who requests these extensions, provides clear and transparent explanations to creditors. The role of the court is crucial in ensuring that these proceedings are conducted fairly and efficiently, and creditors rely on the court's involvement and oversight. The lack of communication regarding the reasons behind these extensions raises questions about the court's monitoring and involvement.
 
-I respectfully request that the Court promptly addresses these concerns and takes the necessary measures to provide creditors with the transparency and information we require. We have patiently endured years of uncertainty, and it is our hope that the Court takes our concerns seriously and acts in the best interests of all MtGox creditors.
+Lastly, and perhaps most importantly, it is essential to receive detailed and comprehensive explanations with each extension of the repayment deadline. Without such information, we are left in the dark and unable to make informed decisions or take measures to prevent future delays. We have the right to know why these delays are occurring, what measures are being taken to prevent future delays, and what the realistic timeline for resolution is.
+
+I respectfully request that the court promptly addresses these concerns and takes the necessary measures to provide transparency and information to creditors. We have endured years of uncertainty, and we hope the court will take our concerns seriously and act in the best interests of all MtGox creditors.
 
 Thank you for your attention to this matter, and I look forward to receiving a response that addresses the points raised herein.
 
