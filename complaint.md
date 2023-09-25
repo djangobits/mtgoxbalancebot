@@ -33,3 +33,23 @@ Japan
 [Your Name]
 
 債権者番号：[your creditor reference number here, the x,y,z number without x,y or z]
+
+----
+
+The address you put on your envelope:
+
+東京地裁民事第20部
+														
+1-chōme-1-4 Kasumigaseki   
+Chiyoda City   
+Tokyo 100-8920   
+Japan   
+
+If you hand-write it coz your printer sucks, then write:
+
+Tokyo District Court, Civil Section 20		
+
+1-chōme-1-4 Kasumigaseki   
+Chiyoda City   
+Tokyo 100-8920   
+Japan   
