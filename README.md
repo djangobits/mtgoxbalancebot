@@ -57,6 +57,9 @@ We don't know. But imagine you were a creditor, seeing BTC going to 69k$ in 2021
 ### Who are the biggest MtGox creditors?
 The biggest creditors are the claim buyers from Fortress (Michael Hourigan), Capital 507 (Thomas Braziel) and Bitcoinbuilder (Josh Jones). Black Rock is not known to be a claim buyer. The Black Rock story is probably just fud and conspiracy theory.
 
+### What does it mean wthen the bot shows a negative amount that was transferred out?
+Then it was transferred in. Sometimes funny people send tiny amounts to some of the addresses. The bot reports that with a negative amount "being transferred out". 
+
 ### Questions?
 If you have questions, remarks or corrections, please let me know via Twitter,
 Sincerly yours,
@@ -146,7 +149,8 @@ Last update: 2022/09/22
 [1NA3Tj4b1jtx9eGELe31Jw4DrzTqKP3ayH](https://blockchair.com/search?q=1NA3Tj4b1jtx9eGELe31Jw4DrzTqKP3ayH)  
 [1Pq7hooZbEAz5y3QMnqFY8C5xqTdrjUwcA](https://blockchair.com/search?q=1Pq7hooZbEAz5y3QMnqFY8C5xqTdrjUwcA)  
 [1PRXQEoL8vzEzoJJ9hbtAP6NaV2daccAUn](https://blockchair.com/search?q=1PRXQEoL8vzEzoJJ9hbtAP6NaV2daccAUn)  
-[1PxGTuJzDx1ceFHx4Z5CHaWuhiPBNovmZD](https://blockchair.com/search?q=1PxGTuJzDx1ceFHx4Z5CHaWuhiPBNovmZD)  
+[1PxGTuJzDx1ceFHx4Z5CHaWuhiPBNovmZD](https://blockchair.com/search?q=1PxGTuJzDx1ceFHx4Z5CHaWuhiPBNovmZD) 
+[13Wv5hGhubAWgSPWtXYh6s1s7HX2N1psYg](https://blockchair.com/search?q=13Wv5hGhubAWgSPWtXYh6s1s7HX2N1psYg) 
 
 If you intend to use this list for your own purpose, please consider a donation to [Kim Nilsson](https://twitter.com/nikuhodai) of WizSecurity who traced and compiled this list. You'll find his BTC address on the bottom of his blog site: https://blog.wizsec.jp/
 
