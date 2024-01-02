@@ -26,7 +26,7 @@ As declared in documents published during creditors meetings ([document here](ht
 No. Creditors will be able to select, if they want their share to be paid in crypto or in fiat. If they select crypto, they can claim them with the exchange designated by the trustee. If they select fiat, the trustee or the designated exchange will probably sell those coins and payout fiat. We have no information if this will be done on the open market or OTC.
 
 ### When will the MtGox coins be released?
-Nobody (maybe except the trustee) currently (2024/01/02) knows. On September 15, 2022, the ***Setting of Assignment, etc. Restriction Reference Period*** started as announced [here](http://www.mtgox.com/img/pdf/20220831_announcement_en.pdf). During the Setting of Assignment, etc. Restriction Reference Period, transfers of claims are not permitted. That is all the documents said. Many observers thought that the distribution of funds will start from September 15, 2022, but the previous experiences with the trustee should make it clear that this won't happen so soon.
+Nobody (maybe except the trustee) currently (2024/01/02) knows. On September 15, 2022, the ***Setting of Assignment, etc. Restriction Reference Period*** started as announced [here](http://www.mtgox.com/img/pdf/20220831_announcement_en.pdf). A previous deadline of End of October 2023 for ELSP (Early Lump Sum repayments) and IP (Intermediate Repayments) was pushed back to End of October 2024.
 
 ### OK. But when MtGox coins?
 What we know is that ***some things need to happen before any fiat or crypto payments from the trustee can be expected*** (a ticked checkbox indicates if this was already done): 
@@ -55,6 +55,9 @@ Additionally, the exchanges which will be used to transfer the crypto, annouced 
 
 ### Will MtGox creditors sell all their coins, once they get them?
 We don't know. But imagine you were a creditor, seeing BTC going to 69k$ in 2021, would you then sell them below 50k$ in 2024? Those creditors in urgent need of money had the occasion to sell their claims to claim buyers and some already did. In an informal vote in a telegram group of creditors, more than 62% of 327 creditors indicated they won't sell any of their crypto once they get it. Only 16% indicated they would sell it all. Some said they would even buy more for the fiat portion they will receive from the trustee. While this is all anectotal, it seems obvious to me that most creditors, which are crypto OGs, won't sell all at once.
+
+### What was this story about Paypal and bank payments? Does the MtGox trustee dump it all and repay in fiat?
+Nope. All creditors are entitled to some fiat payments. Only a minority of creditors are expected to have selected fiat instead of crypto repayments and only a minority are fiat-only creditors. These fiat payments are done by bank transfers or by Paypal, for those who preferred that option. At the end of 2023, some hundred creditors reported they received fiat payments via Paypal between a couple of hundreds of USD to up to USD 10k USD. Also some japanese creditors reported to have received fiat bank transfers. International wire transfers have not been reported at the end of 2023.  
 
 ### Who are the biggest MtGox creditors?
 The biggest creditors are the claim buyers from Fortress (Michael Hourigan), Capital 507 (Thomas Braziel) and Bitcoinbuilder (Josh Jones). We know that Bitcoinbuilder selected ELSP and their users will be paid through BitGo where tehy needed to register according to bitcoinbuilder.com.
