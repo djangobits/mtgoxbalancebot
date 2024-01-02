@@ -20,27 +20,27 @@ This bot was stitched together by [@djangobits](https://twitter.com/djangobits),
 ## Frequently asked questions about MtGox coins
 
 ### What balances is the trustee currently holding)?
-As declared in documents published during creditors meetings ([document here](http://www.mtgox.com/img/pdf/20191001_report.pdf)), the trustee currently (2022/09/21) holds ***141,686.35371099 BTC (Bitcoin)*** and ***142,846.35166254 BCH (Bitcoin Cash)*** as well as 69'776'002'441 JPY (483’512’808 USD) from BTC sales in 2018 and MtGox bank accounts. The trustee also has a similar amount of BSV (Bitcoin Shitty Version) on the same addresses, but according to the Rehabilitation Plan, all other forks except BCH will be dumped.
+As declared in documents published during creditors meetings ([document here](http://www.mtgox.com/img/pdf/20191001_report.pdf)), the trustee currently (2022/09/21) holds ***141,686.35371099 BTC (Bitcoin)*** and ***142,846.35166254 BCH (Bitcoin Cash)*** as well as 69'776'002'441 JPY (483’512’808 USD) from BTC sales in 2018 and MtGox bank accounts. The trustee also has a similar amount of BSV (Bitcoin Shitty Version) on the same addresses, but according to the Rehabilitation Plan, all other forks except BCH will be dumped, which would include BSV.
 
 ### Will the trustee dump all crypto holdings for fiat?
 No. Creditors will be able to select, if they want their share to be paid in crypto or in fiat. If they select crypto, they can claim them with the exchange designated by the trustee. If they select fiat, the trustee or the designated exchange will probably sell those coins and payout fiat. We have no information if this will be done on the open market or OTC.
 
 ### When will the MtGox coins be released?
-Nobody (maybe except the trustee) currently (2022/09/21) knows. On September 15, 2022, the ***Setting of Assignment, etc. Restriction Reference Period*** started as announced [here](http://www.mtgox.com/img/pdf/20220831_announcement_en.pdf). During the Setting of Assignment, etc. Restriction Reference Period, transfers of claims are not permitted. That is all the documents said. Many observers thought that the distribution of funds will start from September 15, 2022, but the previous experiences with the trustee should make it clear that this won't happen so soon.
+Nobody (maybe except the trustee) currently (2024/01/02) knows. On September 15, 2022, the ***Setting of Assignment, etc. Restriction Reference Period*** started as announced [here](http://www.mtgox.com/img/pdf/20220831_announcement_en.pdf). During the Setting of Assignment, etc. Restriction Reference Period, transfers of claims are not permitted. That is all the documents said. Many observers thought that the distribution of funds will start from September 15, 2022, but the previous experiences with the trustee should make it clear that this won't happen so soon.
 
 ### OK. But when MtGox coins?
 What we know is that ***some things need to happen before any fiat or crypto payments from the trustee can be expected*** (a ticked checkbox indicates if this was already done): 
 
-- [ ]  All creditors will need to go through KYC with the trustee
-- [ ]  The Trustee has to inform creditors about the "Intermediate Repayment" option which would allow those creditors who will choose the "Final Payment" (FP) option (in contrast to the "Early Lump Sum Payment" (ELSP) option), to receive something together with those who have chosen ELSP.
-- [ ]  Creditors need to select ELSP or FP in "The System"
-- [ ]  Creditors need to select payout in crypto or fiat in "The System" (the trustee already asked about this, but only as an opinion poll, not as a binding decision)
-- [ ]  In order to receive the fiat payments all creditors are entitled to, bank account info has to be collected in "The System"
-- [ ]  The trustee needs to inform about the exchanges / agents he selected for the distribution of crypto
-- [ ]  Creditors need to register with these exchanges and probably go through KYC again (assuming that KYC data won't be passed from the trustee to the exchange.
+- [x]  All creditors will need to go through KYC with the trustee
+- [x]  The Trustee has to inform creditors about the "Intermediate Repayment" option which would allow those creditors who will choose the "Final Payment" (FP) option (in contrast to the "Early Lump Sum Payment" (ELSP) option), to receive something together with those who have chosen ELSP.
+- [x]  Creditors need to select ELSP or FP in "The System"
+- [x]  Creditors need to select payout in crypto or fiat in "The System" (the trustee already asked about this, but only as an opinion poll, not as a binding decision)
+- [x]  In order to receive the fiat payments all creditors are entitled to, bank account info has to be collected in "The System"
+- [x]  The trustee needs to inform about the exchanges / agents he selected for the distribution of crypto
+- [x]  Creditors need to register with these exchanges and probably go through KYC again (assuming that KYC data won't be passed from the trustee to the exchange.
 - [ ]  Coins need to move to the designated exchanges
 
-Well informed observers do not believe that any BTC will be claimable in 2022. We also do not know to what extent the trustee will speed up the distribution by doing things in parallel. We had seen in the past that every phase (eg onboarding of all Z-creditors (small sum creditors)) took a few months and nothing else happened in the meantime. The trustee is not known to do things in parallel and many of his steps need formal acceptance of the Tokyo court that he was designated by. These formal processes usually take a few weeks.
+The latest deadline set by the trustee to repay all creditors who selected ELSP (Early Lump Sum Repayments) and to send Intermedia Payments to those who selected Final repayment (FP), is end of October 2024. A previous deadline of October 2023 was pushed back as announced [here](https://www.mtgox.com/img/pdf/20230921_announcement_en.pdf). The trustee has a history of delaying and not respecting his self-imposed deadlines. The truth is that nobody knows when crypto payments will happen.
 
 ### Will all crypto holdings be released at once?
 No. There will be three phases with bigger releases (while the order and size cannot be known yet): 
@@ -49,23 +49,25 @@ No. There will be three phases with bigger releases (while the order and size ca
 - B) The distribution to those who selected ELSP and Intermediate Repayments. 
 - C) The distribution of the Final Payment. 
 
-Those creditors who choose the "Final Payment" option will most likely get their last portion once pending ligitation (eg. by Coinlab) is resolved. These creditors will be able to get an early crypto payment through the "Intermediate Repayment", which should happen together with the "Early Lump Sum Payments". But currently, we have no information about the "Intermediate Repayment" and creditors couln't yet choose one of these options, so we don't know how much of the BTC will be held back for the "Final Payment". Also we don't know how many will select fiat payments of their crypto holdings. So we also do not know how much (if any, seeing the pile of fiat the trustee already holds) will be sold by the trustee or the designated exchanges
+Those creditors who choose the "Final Payment" option will most likely get their last portion once pending ligitation (eg. by Coinlab) is resolved. These creditors will be able to get an early crypto payment through the "Intermediate Repayment", which should happen together with the "Early Lump Sum Payments". It's unknown how many creditors selected fiat payments of their crypto holdings. It's also unknown how many selected ELSP or FP.
+
+Additionally, the exchanges which will be used to transfer the crypto, annouced that they will need between two weeks and 90 days to process the payments. This makes it very unlikely for big amounts to be released on a single day.
 
 ### Will MtGox creditors sell all their coins, once they get them?
-We don't know. But imagine you were a creditor, seeing BTC going to 69k$ in 2021, would you then sell them below 20k$ in 2022? Also, those creditors in urgent need of money had the occasion to sell their claims to claim buyers and some already did. In an informal vote in a telegram group of creditors, more than 62% of 327 creditors indicated they won't sell any of their crypto once they get it. Only 16% indicated they would sell it all. Some said they would even buy more for the fiat portion they will receive from the trustee. While this is all anectotal, it seems obvious to me that most creditors, which are crypto OGs, won't sell at the bottom of the 2022/2023 bear market.
+We don't know. But imagine you were a creditor, seeing BTC going to 69k$ in 2021, would you then sell them below 50k$ in 2024? Those creditors in urgent need of money had the occasion to sell their claims to claim buyers and some already did. In an informal vote in a telegram group of creditors, more than 62% of 327 creditors indicated they won't sell any of their crypto once they get it. Only 16% indicated they would sell it all. Some said they would even buy more for the fiat portion they will receive from the trustee. While this is all anectotal, it seems obvious to me that most creditors, which are crypto OGs, won't sell all at once.
 
 ### Who are the biggest MtGox creditors?
-The biggest creditors are the claim buyers from Fortress (Michael Hourigan), Capital 507 (Thomas Braziel) and Bitcoinbuilder (Josh Jones). Black Rock is not known to be a claim buyer. The Black Rock story is probably just fud and conspiracy theory.
+The biggest creditors are the claim buyers from Fortress (Michael Hourigan), Capital 507 (Thomas Braziel) and Bitcoinbuilder (Josh Jones). We know that Bitcoinbuilder selected ELSP and their users will be paid through BitGo where tehy needed to register according to bitcoinbuilder.com.
 
 ### What does it mean wthen the bot shows a negative amount that was transferred out?
-Then it was transferred in. Sometimes funny people send tiny amounts to some of the addresses. The bot reports that with a negative amount "being transferred out". 
+Then that amount was transferred in. Sometimes funny people send tiny amounts to some of the addresses. The bot reports that with a negative amount "being transferred out". 
 
 ### Questions?
 If you have questions, remarks or corrections, please let me know via Twitter,
 Sincerly yours,
 [@djangobits](https://twitter.com/djangobits)
 
-Last update: 2022/09/22
+Last update: 2024/01/02
 
 
 
@@ -149,7 +151,7 @@ Last update: 2022/09/22
 [1NA3Tj4b1jtx9eGELe31Jw4DrzTqKP3ayH](https://blockchair.com/search?q=1NA3Tj4b1jtx9eGELe31Jw4DrzTqKP3ayH)  
 [1Pq7hooZbEAz5y3QMnqFY8C5xqTdrjUwcA](https://blockchair.com/search?q=1Pq7hooZbEAz5y3QMnqFY8C5xqTdrjUwcA)  
 [1PRXQEoL8vzEzoJJ9hbtAP6NaV2daccAUn](https://blockchair.com/search?q=1PRXQEoL8vzEzoJJ9hbtAP6NaV2daccAUn)  
-[1PxGTuJzDx1ceFHx4Z5CHaWuhiPBNovmZD](https://blockchair.com/search?q=1PxGTuJzDx1ceFHx4Z5CHaWuhiPBNovmZD) 
+[1PxGTuJzDx1ceFHx4Z5CHaWuhiPBNovmZD](https://blockchair.com/search?q=1PxGTuJzDx1ceFHx4Z5CHaWuhiPBNovmZD)  
 [13Wv5hGhubAWgSPWtXYh6s1s7HX2N1psYg](https://blockchair.com/search?q=13Wv5hGhubAWgSPWtXYh6s1s7HX2N1psYg) 
 
 If you intend to use this list for your own purpose, please consider a donation to [Kim Nilsson](https://twitter.com/nikuhodai) of WizSecurity who traced and compiled this list. You'll find his BTC address on the bottom of his blog site: https://blog.wizsec.jp/
