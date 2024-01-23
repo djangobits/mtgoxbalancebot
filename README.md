@@ -157,7 +157,7 @@ Links lead to block explorers of BTC, BCH and BSV
 1Pq7hooZbEAz5y3QMnqFY8C5xqTdrjUwcA [BTC](https://blockchair.com/bitcoin/address/1Pq7hooZbEAz5y3QMnqFY8C5xqTdrjUwcA) [BCH](https://bitinfocharts.com/de/bitcoin%20cash/address/1Pq7hooZbEAz5y3QMnqFY8C5xqTdrjUwcA) [BSV](https://whatsonchain.com/address/1Pq7hooZbEAz5y3QMnqFY8C5xqTdrjUwcA) 
 1PRXQEoL8vzEzoJJ9hbtAP6NaV2daccAUn [BTC](https://blockchair.com/bitcoin/address/1PRXQEoL8vzEzoJJ9hbtAP6NaV2daccAUn) [BCH](https://bitinfocharts.com/de/bitcoin%20cash/address/1PRXQEoL8vzEzoJJ9hbtAP6NaV2daccAUn) [BSV](https://whatsonchain.com/address/1PRXQEoL8vzEzoJJ9hbtAP6NaV2daccAUn) 
 1PxGTuJzDx1ceFHx4Z5CHaWuhiPBNovmZD [BTC](https://blockchair.com/bitcoin/address/1PxGTuJzDx1ceFHx4Z5CHaWuhiPBNovmZD) [BCH](https://bitinfocharts.com/de/bitcoin%20cash/address/1PxGTuJzDx1ceFHx4Z5CHaWuhiPBNovmZD) [BSV](https://whatsonchain.com/address/1PxGTuJzDx1ceFHx4Z5CHaWuhiPBNovmZD) 
-13Wv5hGhubAWgSPWtXYh6s1s7HX2N1psYg 13W[BTC](https://blockchair.com/bitcoin/address/v5hGhubAWgSPWtXYh6s1s7HX2N1psYg  1)3[BChttps://bitinfocharts.com/de/bitcoin%20cash/address/H](Wv5hGhubAWgSPWtXYh6s1s7HX2N1psYg [BSV](https://whatsonchain.com/address/ )13Wv5hGhubAWgSPWtXYh6s1s7HX2N1ps)Yg   
+13Wv5hGhubAWgSPWtXYh6s1s7HX2N1psYg [BTC](https://blockchair.com/bitcoin/address/13Wv5hGhubAWgSPWtXYh6s1s7HX2N1psYg  [BChttps://bitinfocharts.com/de/bitcoin%20cash/address/H](13Wv5hGhubAWgSPWtXYh6s1s7HX2N1psYg) [BSV](https://whatsonchain.com/address/13Wv5hGhubAWgSPWtXYh6s1s7HX2N1psYg)   
 
 
 If you intend to use this list for your own purpose, please consider a donation to [Kim Nilsson](https://twitter.com/nikuhodai) of WizSecurity who traced and compiled this list. You'll find his BTC address on the bottom of his blog site: https://blog.wizsec.jp/
