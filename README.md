@@ -77,6 +77,8 @@ Last update: 2024/01/02
 ### Appendix 1 - List of all known addresses tracked by the bot
 
 Links lead to block explorers of BTC, BCH and BSV
+
+
 12KkeeRkiNS13GMbg7zos9KRn9ggvZtZgx [BTC](https://blockchair.com/bitcoin/address/12KkeeRkiNS13GMbg7zos9KRn9ggvZtZgx) [BCH](https://bitinfocharts.com/de/bitcoin%20cash/address/12KkeeRkiNS13GMbg7zos9KRn9ggvZtZgx) [BSV](https://whatsonchain.com/address/12KkeeRkiNS13GMbg7zos9KRn9ggvZtZgx)  
 12T4oSNd4t9ty9fodgNd47TWhK35pAxDYN [BTC](https://blockchair.com/bitcoin/address/12T4oSNd4t9ty9fodgNd47TWhK35pAxDYN) [BCH](https://bitinfocharts.com/de/bitcoin%20cash/address/12T4oSNd4t9ty9fodgNd47TWhK35pAxDYN) [BSV](https://whatsonchain.com/address/12T4oSNd4t9ty9fodgNd47TWhK35pAxDYN)  
 13ahgw8sM95EDbugT3tdb8TYoMU46Uw7PX [BTC](https://blockchair.com/bitcoin/address/13ahgw8sM95EDbugT3tdb8TYoMU46Uw7PX) [BCH](https://bitinfocharts.com/de/bitcoin%20cash/address/13ahgw8sM95EDbugT3tdb8TYoMU46Uw7PX) [BSV](https://whatsonchain.com/address/13ahgw8sM95EDbugT3tdb8TYoMU46Uw7PX)  
