@@ -92,14 +92,22 @@ If you have questions, remarks or corrections, please let me know via Twitter,
 Sincerly yours,
 [@djangobits](https://twitter.com/djangobits)
 
-Last update: 2024/01/02
 
-
-
-### Appendix 1 - List of all known addresses tracked by the bot
+### Appendix 1 - List of all known addresses used by the MtGox trustee
 
 Links lead to block explorers of BTC, BCH and BSV
 
+#### addresses added after 2024/05/30
+
+##### BTC
+[1AsHPP7WcGnDLzxW2bUa2FcbJP3eZVEqpx](https://mempool.space/address/1AsHPP7WcGnDLzxW2bUa2FcbJP3eZVEqpx), ‎47'228.73311546 BTC  
+[1HeHLv7ZRFxWUVjuWkWT2D5XFbXXvHoV68](https://mempool.space/address/1HeHLv7ZRFxWUVjuWkWT2D5XFbXXvHoV68), 47'228.73385092 BTC  
+[16eAGJEjqsUqngMfcysQECvp7TMU37P9gX](https://mempool.space/address/16eAGJEjqsUqngMfcysQECvp7TMU37P9gX), 47'228.73385092 BTC  
+
+##### BCH
+[qqprdmqf4yc2cvrk9jmqp6luxwpp7wr98ulgshyeah](https://www.blockchain.com/explorer/addresses/BCH/qqprdmqf4yc2cvrk9jmqp6luxwpp7wr98ulgshyeah)
+
+#### addresses which existed before 2024/05/30
 
 12KkeeRkiNS13GMbg7zos9KRn9ggvZtZgx [BTC](https://blockchair.com/bitcoin/address/12KkeeRkiNS13GMbg7zos9KRn9ggvZtZgx) [BCH](https://bitinfocharts.com/de/bitcoin%20cash/address/12KkeeRkiNS13GMbg7zos9KRn9ggvZtZgx) [BSV](https://whatsonchain.com/address/12KkeeRkiNS13GMbg7zos9KRn9ggvZtZgx)  
 12T4oSNd4t9ty9fodgNd47TWhK35pAxDYN [BTC](https://blockchair.com/bitcoin/address/12T4oSNd4t9ty9fodgNd47TWhK35pAxDYN) [BCH](https://bitinfocharts.com/de/bitcoin%20cash/address/12T4oSNd4t9ty9fodgNd47TWhK35pAxDYN) [BSV](https://whatsonchain.com/address/12T4oSNd4t9ty9fodgNd47TWhK35pAxDYN)  
