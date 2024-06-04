@@ -6,14 +6,14 @@ https://www.mtgox.com/img/pdf/20240528_announcement_en.pdf
 
 
 #### BTC
-https://mempool.space/address/1AsHPP7WcGnDLzxW2bUa2FcbJP3eZVEqpx, ‎47'228.73311546 BTC
-https://mempool.space/address/1HeHLv7ZRFxWUVjuWkWT2D5XFbXXvHoV68, 47'228.73385092 BTC
-https://mempool.space/address/16eAGJEjqsUqngMfcysQECvp7TMU37P9gX, 47'228.73385092 BTC
+[1AsHPP7WcGnDLzxW2bUa2FcbJP3eZVEqpx](https://mempool.space/address/1AsHPP7WcGnDLzxW2bUa2FcbJP3eZVEqpx), ‎47'228.73311546 BTC
+[1HeHLv7ZRFxWUVjuWkWT2D5XFbXXvHoV68](https://mempool.space/address/1HeHLv7ZRFxWUVjuWkWT2D5XFbXXvHoV68), 47'228.73385092 BTC
+[16eAGJEjqsUqngMfcysQECvp7TMU37P9gX](https://mempool.space/address/16eAGJEjqsUqngMfcysQECvp7TMU37P9gX), 47'228.73385092 BTC
 
 Total: 141'686.2008173 BTC
 
 #### BCH
-https://www.blockchain.com/explorer/addresses/BCH/qqprdmqf4yc2cvrk9jmqp6luxwpp7wr98ulgshyeah
+[qqprdmqf4yc2cvrk9jmqp6luxwpp7wr98ulgshyeah](https://www.blockchain.com/explorer/addresses/BCH/qqprdmqf4yc2cvrk9jmqp6luxwpp7wr98ulgshyeah)
 
 Total: 142'846.01000000 BCH
 
