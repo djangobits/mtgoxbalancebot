@@ -1,3 +1,25 @@
+## UPDATE 2024/06/04
+
+On May 30, 2024 the trustee has consolidated all BTC in 3 addresses and all BCH in one address and published this message:
+
+https://www.mtgox.com/img/pdf/20240528_announcement_en.pdf
+
+
+#### BTC
+https://mempool.space/address/1AsHPP7WcGnDLzxW2bUa2FcbJP3eZVEqpx, ‎47'228.73311546 BTC
+https://mempool.space/address/1HeHLv7ZRFxWUVjuWkWT2D5XFbXXvHoV68, 47'228.73385092 BTC
+https://mempool.space/address/16eAGJEjqsUqngMfcysQECvp7TMU37P9gX, 47'228.73385092 BTC
+
+Total: 141'686.2008173 BTC
+
+#### BCH
+https://www.blockchain.com/explorer/addresses/BCH/qqprdmqf4yc2cvrk9jmqp6luxwpp7wr98ulgshyeah
+
+Total: 142'846.01000000 BCH
+
+BSV has not been consolidated, and sits on the known addresses.
+
+
 ## About the bot
 
 The twitter bot [@MtGoxBalanceBot](https://twitter.com/mtgoxbalancebot) observes the current balances and outgoing transactions on all known MtGox BTC addresses supposedly held by the MtGox trustee. 
