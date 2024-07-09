@@ -10,7 +10,7 @@ On the same day, the trustee published this: [https://www.mtgox.com/img/pdf/2024
 
 We can also assume that the remaining ‎44,526.95228894 BTC sitting now sitting on [https://mempool.space/address/16ArP3SPFJwq6X5fTZRLu2UcEAn1dXVqdF](16ArP3SPFJwq6X5fTZRLu2UcEAn1dXVqdF) is still under the trustee's control. Therefor it was added to the mtgoxbalancebot.
 
-Addresses monitored by mtgoxbalancebot on July 9, 2024:
+Addresses monitored by mtgoxbalancebot on July 9, 2024:  
 [1HeHLv7ZRFxWUVjuWkWT2D5XFbXXvHoV68](https://mempool.space/address/1HeHLv7ZRFxWUVjuWkWT2D5XFbXXvHoV68)  
 [1AsHPP7WcGnDLzxW2bUa2FcbJP3eZVEqpx](https://mempool.space/address/1AsHPP7WcGnDLzxW2bUa2FcbJP3eZVEqpx)  
 [16eAGJEjqsUqngMfcysQECvp7TMU37P9gX](https://mempool.space/address/16eAGJEjqsUqngMfcysQECvp7TMU37P9gX)  
