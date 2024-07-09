@@ -2,19 +2,21 @@
 
 On July 5th, 2024 the trustee has moved coins from 1HeHLv7ZRFxWUVjuWkWT2D5XFbXXvHoV68, while 1AsHPP7WcGnDLzxW2bUa2FcbJP3eZVEqpx and 16eAGJEjqsUqngMfcysQECvp7TMU37P9gX remained untouched. This is the corresponding transaction: [https://mempool.space/tx/f95aa78a405007e702e6bb69732e3bbe7a0b3de75dc6e7b9b0dcc85e5e597c8e](f95aa78a405007e702e6bb69732e3bbe7a0b3de75dc6e7b9b0dcc85e5e597c8e)
 
-The full balance of 1HeHLv7ZRFxWUVjuWkWT2D5XFbXXvHoV68 was moved, ‎2,701.78112302 BTC was split off and was sent to 16ArP3SPFJwq6X5fTZRLu2UcEAn1dXVqdF and to 1JbezDVd9VsK9o1Ga9UqLydeuEvhKLAPs6 from where it was split again and moved to bc1qkjcuq5hgqd3y735vxl52htd2ja9xvyv8cq3gllhpwp23c3d7tdyq2ug68h and 1PKGGMh5cGYMMJq32aVY8gfCzsmUiszwzV, see transaction here: [https://mempool.space/tx/3a0672bb5b831b886aaff6e276dcfeadeb8256ec4124c40ef50002cfe2f599f7](3a0672bb5b831b886aaff6e276dcfeadeb8256ec4124c40ef50002cfe2f599f7).
+The full balance of 1HeHLv7ZRFxWUVjuWkWT2D5XFbXXvHoV68 was moved, ‎2'701.78112302 BTC was split off and was sent to 16ArP3SPFJwq6X5fTZRLu2UcEAn1dXVqdF and to 1JbezDVd9VsK9o1Ga9UqLydeuEvhKLAPs6 from where it was split again and moved to bc1qkjcuq5hgqd3y735vxl52htd2ja9xvyv8cq3gllhpwp23c3d7tdyq2ug68h and 1PKGGMh5cGYMMJq32aVY8gfCzsmUiszwzV, see transaction here: [https://mempool.space/tx/3a0672bb5b831b886aaff6e276dcfeadeb8256ec4124c40ef50002cfe2f599f7](3a0672bb5b831b886aaff6e276dcfeadeb8256ec4124c40ef50002cfe2f599f7).
 
 On the same day, the trustee published this: [https://www.mtgox.com/img/pdf/20240705_01_announcement_en.pdf](https://www.mtgox.com/img/pdf/20240705_01_announcement_en.pdf) where he declares having started to distribute Bitcoin and Bitcoin Cash "to some of the rehabilitation creditors". Also the same day, reports popped up of users of SBI VCTRADE and [https://www.reddit.com/r/mtgoxinsolvency/comments/1dvryt9/coins_credited_into_my_account/](Bitbank) on Telegram an reddit. We can assume that the 2,701.78112302 BTC were sent to these two exchanges to refund creditors.
 
-We can also assume that the remaining ‎44,526.95228894 BTC sitting now sitting on [https://mempool.space/address/16ArP3SPFJwq6X5fTZRLu2UcEAn1dXVqdF](16ArP3SPFJwq6X5fTZRLu2UcEAn1dXVqdF) is still under the trustee's control. Therefor it was added to the mtgoxbalancebot.
+We can also assume that the remaining ‎44'526.95228894 BTC sitting now sitting on [https://mempool.space/address/16ArP3SPFJwq6X5fTZRLu2UcEAn1dXVqdF](16ArP3SPFJwq6X5fTZRLu2UcEAn1dXVqdF) is still under the trustee's control. Therefor it was added to the mtgoxbalancebot.
 
 Addresses monitored by mtgoxbalancebot on July 9, 2024:  
 [1HeHLv7ZRFxWUVjuWkWT2D5XFbXXvHoV68](https://mempool.space/address/1HeHLv7ZRFxWUVjuWkWT2D5XFbXXvHoV68) 	‎0.00000546 BTC  
-[1AsHPP7WcGnDLzxW2bUa2FcbJP3eZVEqpx](https://mempool.space/address/1AsHPP7WcGnDLzxW2bUa2FcbJP3eZVEqpx) ‎47,228.73329863 BTC  
-[16eAGJEjqsUqngMfcysQECvp7TMU37P9gX](https://mempool.space/address/16eAGJEjqsUqngMfcysQECvp7TMU37P9gX) ‎47,228.73385638 BTC  
-[16ArP3SPFJwq6X5fTZRLu2UcEAn1dXVqdF](https://mempool.space/address/16ArP3SPFJwq6X5fTZRLu2UcEAn1dXVqdF) ‎44,526.95228894 BTC  
+[1AsHPP7WcGnDLzxW2bUa2FcbJP3eZVEqpx](https://mempool.space/address/1AsHPP7WcGnDLzxW2bUa2FcbJP3eZVEqpx) ‎47'228.73329863 BTC  
+[16eAGJEjqsUqngMfcysQECvp7TMU37P9gX](https://mempool.space/address/16eAGJEjqsUqngMfcysQECvp7TMU37P9gX) ‎47'228.73385638 BTC  
+[16ArP3SPFJwq6X5fTZRLu2UcEAn1dXVqdF](https://mempool.space/address/16ArP3SPFJwq6X5fTZRLu2UcEAn1dXVqdF) ‎44'526.95228894 BTC  
 
-BCH also moved and 2,701.75561618 BCH were split of in a similar fashion. The remaining BCH sit in one address. Transaction here: [https://www.blockchain.com/explorer/transactions/bch/d213dd13f3155d347592bae277af22385f9214c435bfedc189e28788af12a1a5](d213dd13f3155d347592bae277af22385f9214c435bfedc189e28788af12a1a5)
+Total: 138'984.41944941 BTC
+
+BCH also moved and 2'701.75561618 BCH were split of in a similar fashion. The remaining BCH sit in one address. Transaction here: [https://www.blockchain.com/explorer/transactions/bch/d213dd13f3155d347592bae277af22385f9214c435bfedc189e28788af12a1a5](d213dd13f3155d347592bae277af22385f9214c435bfedc189e28788af12a1a5)
 
 
 ## UPDATE 2024/06/04
