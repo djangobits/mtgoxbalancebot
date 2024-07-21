@@ -22,8 +22,8 @@ Therefor the bot will now track these addresses, even if there is a slight risk 
 
 Exchanges which already received crypto from the trustee to their addresses:
 
-Bitbank (confirmed): 1PKGGMh5cGYMMJq32aVY8gfCzsmUiszwzV
-SBI VC TRADE (confirmed): bc1qkjcuq5hgqd3y735vxl52htd2ja9xvyv8cq3gllhpwp23c3d7tdyq2ug68h
+Bitbank (confirmed): 1PKGGMh5cGYMMJq32aVY8gfCzsmUiszwzV  
+SBI VC TRADE (confirmed): bc1qkjcuq5hgqd3y735vxl52htd2ja9xvyv8cq3gllhpwp23c3d7tdyq2ug68h  
 Kraken (to be confirmed): 3JQieEzccKjFS34oW8KZSGBDndiH1YyFrE
 
 ### NOTE: ATTENTION ASSUMPTIONS
