@@ -1,3 +1,31 @@
+## UPDATE 2024/07/21
+
+On July 17, 2024 the trustee has gain moved coins. This time from 16eAGJEjqsUqngMfcysQECvp7TMU37P9gX and 16ArP3SPFJwq6X5fTZRLu2UcEAn1dXVqdF. The same day creditors who registered with Kraken as their exchange of choice to receive the payments, have received an email from the trustee confirming the "Completion of BTC/BCH Repayment". in an Email Kraken confirmed to have received the funds and forsees 7-14 days for the distribution to the creditor's accounts to be completed.
+
+The two transactions from the trustees addresses were:  
+[2493c16bb8621e4034df73b4e1b67bcae07831c72e43f1356e1e3f077c2cec8f](https://mempool.space/tx/2493c16bb8621e4034df73b4e1b67bcae07831c72e43f1356e1e3f077c2cec8f)  
+[d938a3d267b9027879d58f8e3ba45e1d0bc8ab7584c38b9b3ab8df014c807f17](https://mempool.space/tx/d938a3d267b9027879d58f8e3ba45e1d0bc8ab7584c38b9b3ab8df014c807f17)  
+
+If we check these transactions, we see both sending certain amounts to 1JbezDVd9VsK9o1Ga9UqLydeuEvhKLAPs6 which acted as intermediary address to prepare transactions before. I assume this to be an address in control of the trustee, used to prepare transactions in a safe way. From 1Jbez, 48'641.24283577 BTC were onpassed to 3JQieEzccKjFS34oW8KZSGBDndiH1YyFrE. It can be assumed that this is an address under control of Kraken. Both originating addresses did split off some change.
+
+I am going to assume that the two new addresses which did receive the split off amounts are new change addresses from the trustee 1HRAprcXCzx1YqYv7dcCcDzf3vYVGPv3b2 and 18vjnBHWAxU4CPGPqF7Gp9JyqdVBHDct9b. 
+
+
+Therefor the bot will now track these addresses, even if there is a slight risk that 1HRAp and 18vjn might not be change addresses from teh trustee.
+
+[1HeHLv7ZRFxWUVjuWkWT2D5XFbXXvHoV68](https://mempool.space/address/1HeHLv7ZRFxWUVjuWkWT2D5XFbXXvHoV68) ‎0.00000546 BTC, initial consolidation address
+[1AsHPP7WcGnDLzxW2bUa2FcbJP3eZVEqpx](https://mempool.space/address/1AsHPP7WcGnDLzxW2bUa2FcbJP3eZVEqpx) ‎‎47'228.73330409 BTC, initial consolidation address
+[16eAGJEjqsUqngMfcysQECvp7TMU37P9gX](https://mempool.space/address/16eAGJEjqsUqngMfcysQECvp7TMU37P9gX) ‎‎0.00004786 BTC, initial consolidation address
+[16ArP3SPFJwq6X5fTZRLu2UcEAn1dXVqdF](https://mempool.space/address/16ArP3SPFJwq6X5fTZRLu2UcEAn1dXVqdF) ‎0 BTC, initial consolidation address
+[1HRAprcXCzx1YqYv7dcCcDzf3vYVGPv3b2](https://mempool.space/address/1HRAprcXCzx1YqYv7dcCcDzf3vYVGPv3b2) ‎526.95226408 BTC, Change address after Kraken transfers (jul 17)
+[18vjnBHWAxU4CPGPqF7Gp9JyqdVBHDct9b](https://mempool.space/address/18vjnBHWAxU4CPGPqF7Gp9JyqdVBHDct9b) ‎42'587.49101799 BTC, Change address after Kraken transfers (jul 17)
+
+### NOTE: ATTENTION ASSUMPTIONS
+I did make some assumptions based on the observed transfers and the communication by the trustee as well as the users feedback in the MtGox creditors community. I could be wrong. But Arkham seems to come to teh same conclusions, see: [https://platform.arkhamintelligence.com/](https://platform.arkhamintelligence.com/)
+
+
+
+
 ## UPDATE 2024/07/09
 
 On July 5th, 2024 the trustee has moved coins from 1HeHLv7ZRFxWUVjuWkWT2D5XFbXXvHoV68, while 1AsHPP7WcGnDLzxW2bUa2FcbJP3eZVEqpx and 16eAGJEjqsUqngMfcysQECvp7TMU37P9gX remained untouched. This is the corresponding transaction: [https://mempool.space/tx/f95aa78a405007e702e6bb69732e3bbe7a0b3de75dc6e7b9b0dcc85e5e597c8e](f95aa78a405007e702e6bb69732e3bbe7a0b3de75dc6e7b9b0dcc85e5e597c8e)
