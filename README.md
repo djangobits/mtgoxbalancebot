@@ -20,6 +20,12 @@ Therefor the bot will now track these addresses, even if there is a slight risk 
 [1HRAprcXCzx1YqYv7dcCcDzf3vYVGPv3b2](https://mempool.space/address/1HRAprcXCzx1YqYv7dcCcDzf3vYVGPv3b2) ‎526.95226408 BTC, Change address after Kraken transfers (jul 17)  
 [18vjnBHWAxU4CPGPqF7Gp9JyqdVBHDct9b](https://mempool.space/address/18vjnBHWAxU4CPGPqF7Gp9JyqdVBHDct9b) ‎42'587.49101799 BTC, Change address after Kraken transfers (jul 17)  
 
+Exchanges which already received crypto from the trustee to their addresses:
+
+Bitbank (confirmed): 1PKGGMh5cGYMMJq32aVY8gfCzsmUiszwzV
+SBI VC TRADE (confirmed): bc1qkjcuq5hgqd3y735vxl52htd2ja9xvyv8cq3gllhpwp23c3d7tdyq2ug68h
+Kraken (to be confirmed): 3JQieEzccKjFS34oW8KZSGBDndiH1YyFrE
+
 ### NOTE: ATTENTION ASSUMPTIONS
 I did make some assumptions based on the observed transfers and the communication by the trustee as well as the users feedback in the MtGox creditors community. I could be wrong. But Arkham seems to come to teh same conclusions, see: [https://platform.arkhamintelligence.com/](https://platform.arkhamintelligence.com/)
 
