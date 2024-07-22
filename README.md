@@ -11,7 +11,7 @@ If we check these transactions, we see both sending certain amounts to 1JbezDVd9
 I am going to assume that the two new addresses which did receive the split off amounts are new change addresses from the trustee 1HRAprcXCzx1YqYv7dcCcDzf3vYVGPv3b2 and 18vjnBHWAxU4CPGPqF7Gp9JyqdVBHDct9b. 
 
 
-Therefor the bot will now track these addresses, even if there is a slight risk that 1HRAp and 18vjn might not be change addresses from teh trustee.
+Therefor the bot will now track these addresses, even if there is a slight risk that 1HRAp and 18vjn might not be change addresses from the trustee.
 
 [1HeHLv7ZRFxWUVjuWkWT2D5XFbXXvHoV68](https://mempool.space/address/1HeHLv7ZRFxWUVjuWkWT2D5XFbXXvHoV68) ‎0.00000546 BTC, initial consolidation address  
 [1AsHPP7WcGnDLzxW2bUa2FcbJP3eZVEqpx](https://mempool.space/address/1AsHPP7WcGnDLzxW2bUa2FcbJP3eZVEqpx) ‎‎47'228.73330409 BTC, initial consolidation address  
