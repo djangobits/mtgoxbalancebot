@@ -1,6 +1,33 @@
+## UPDATE 2024/07/23
+
+On July 23, 2024 the Mtgox trustee did again send out funds from the tracked addresses. As usual, outgoing payments were sent to 1JbezDVd9VsK9o1Ga9UqLydeuEvhKLAPs6 before getting onpassed.
+Here's the transaction going to 1JbezDVd9VsK9o1Ga9UqLydeuEvhKLAPs6: [783903b91819cdba752b1bf7d78f28fd3b3250dac74ba19c7bfca86308eb7f3b](https://mempool.space/tx/783903b91819cdba752b1bf7d78f28fd3b3250dac74ba19c7bfca86308eb7f3b). We can again assume that 15yPUCW9XRmPpNtQkzYogtfgi99pk8rvwe is a new change address under control of the trustee, which received ‎37'477.32113914 BTC, while 1JbezDVd9VsK9o1Ga9UqLydeuEvhKLAPs6 received ‎5'110.16967489 BTC.
+
+From 1JbezDVd9VsK9o1Ga9UqLydeuEvhKLAPs6, the ‎5,110.16967489 BTC were split to two addresses in this transaction: [0768fe3265e4952388e118b6c72bc48044cf41a21cdd7272bf8fceed77d01fde](https://mempool.space/tx/0768fe3265e4952388e118b6c72bc48044cf41a21cdd7272bf8fceed77d01fde). Both receiving addresses: 3QVD5HvPJLbQhDsDdoDZtW9cwZG3mEFzRN (receiving ‎2'238.87822812 BTC) and 1JKMSShPMSQ2LPHf6fFsgweMVXXeMaSBVD (receiving ‎2'871.31175597 BTC) seem to be addresses controlled by Bitstamp, according to Arkham.
+
+Later the same day, Kraken credited BTC and BCH to the creditors who chose Kraken as a receiving exchange.
+
+#### Payouts until 2024/07/23 CET:
+
+Bitbank (confirmed): 1PKGGMh5cGYMMJq32aVY8gfCzsmUiszwzV  
+SBI VC TRADE (confirmed): bc1qkjcuq5hgqd3y735vxl52htd2ja9xvyv8cq3gllhpwp23c3d7tdyq2ug68h  
+Kraken (confirmed): 3JQieEzccKjFS34oW8KZSGBDndiH1YyFrE
+Bitstamp (confirmed): 3QVD5HvPJLbQhDsDdoDZtW9cwZG3mEFzRN and 1JKMSShPMSQ2LPHf6fFsgweMVXXeMaSBVD  
+
+#### Remaining funds under control of the trustee per 2024/07/23 CET:
+
+[1HeHLv7ZRFxWUVjuWkWT2D5XFbXXvHoV68](https://mempool.space/address/1HeHLv7ZRFxWUVjuWkWT2D5XFbXXvHoV68) ‎0.00000546 BTC, initial consolidation address, empty
+[1AsHPP7WcGnDLzxW2bUa2FcbJP3eZVEqpx](https://mempool.space/address/1AsHPP7WcGnDLzxW2bUa2FcbJP3eZVEqpx) ‎‎47'228.73330409 BTC, initial consolidation address  
+[16eAGJEjqsUqngMfcysQECvp7TMU37P9gX](https://mempool.space/address/16eAGJEjqsUqngMfcysQECvp7TMU37P9gX) ‎‎0.00002148 BTC, initial consolidation address  
+[16ArP3SPFJwq6X5fTZRLu2UcEAn1dXVqdF](https://mempool.space/address/16ArP3SPFJwq6X5fTZRLu2UcEAn1dXVqdF) ‎0 BTC, initial consolidation address  
+[1HRAprcXCzx1YqYv7dcCcDzf3vYVGPv3b2](https://mempool.space/address/1HRAprcXCzx1YqYv7dcCcDzf3vYVGPv3b2) ‎526.95226408 BTC, Change address after Kraken transfers (jul 17)  
+[18vjnBHWAxU4CPGPqF7Gp9JyqdVBHDct9b](https://mempool.space/address/18vjnBHWAxU4CPGPqF7Gp9JyqdVBHDct9b) ‎0 BTC, Change address after Kraken transfers (jul 17), empty
+[15yPUCW9XRmPpNtQkzYogtfgi99pk8rvwe](https://mempool.space/address/15yPUCW9XRmPpNtQkzYogtfgi99pk8rvwe) 37'477.32113914, Change address after Bitstamp transfers (jul 23)
+
+
 ## UPDATE 2024/07/21
 
-On July 17, 2024 the trustee has gain moved coins. This time from 16eAGJEjqsUqngMfcysQECvp7TMU37P9gX and 16ArP3SPFJwq6X5fTZRLu2UcEAn1dXVqdF. The same day creditors who registered with Kraken as their exchange of choice to receive the payments, have received an email from the trustee confirming the "Completion of BTC/BCH Repayment". in an Email Kraken confirmed to have received the funds and forsees 7-14 days for the distribution to the creditor's accounts to be completed.
+On July 17, 2024 the trustee has again moved coins. This time from 16eAGJEjqsUqngMfcysQECvp7TMU37P9gX and 16ArP3SPFJwq6X5fTZRLu2UcEAn1dXVqdF. The same day creditors who registered with Kraken as their exchange of choice to receive the payments, have received an email from the trustee confirming the "Completion of BTC/BCH Repayment". in an Email Kraken confirmed to have received the funds and forsees 7-14 days for the distribution to the creditor's accounts to be completed.
 
 The two transactions from the trustees addresses were:  
 [2493c16bb8621e4034df73b4e1b67bcae07831c72e43f1356e1e3f077c2cec8f](https://mempool.space/tx/2493c16bb8621e4034df73b4e1b67bcae07831c72e43f1356e1e3f077c2cec8f)  
