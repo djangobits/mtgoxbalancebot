@@ -1,3 +1,26 @@
+## UPDATE 2024/07/24
+
+On July 24, 2024, the trustee again initiated a BTC transfer: [c635fabb484db06fca4e6432ba222601051739bef02e3416972eaca726c476be](https://mempool.space/tx/c635fabb484db06fca4e6432ba222601051739bef02e3416972eaca726c476be). Same pattern as before: One output going to 1JbezDVd9VsK9o1Ga9UqLydeuEvhKLAPs6, one supposedly going to a new change address: 12Gws9EsEiDZLinu2SWkHdk7TcobjTau9u. I will update this post, once the output of 1JbezDVd9VsK9o1Ga9UqLydeuEvhKLAPs6 is executed.
+
+#### Remaining funds under control of the trustee per 2024/07/24 CET, currently tracked by mtgoxbalancebot:
+
+[1HeHLv7ZRFxWUVjuWkWT2D5XFbXXvHoV68](https://mempool.space/address/1HeHLv7ZRFxWUVjuWkWT2D5XFbXXvHoV68) ‎0.00000546 BTC, initial consolidation address, empty
+[1AsHPP7WcGnDLzxW2bUa2FcbJP3eZVEqpx](https://mempool.space/address/1AsHPP7WcGnDLzxW2bUa2FcbJP3eZVEqpx) ‎‎47'228.73330409 BTC, initial consolidation address  
+[16eAGJEjqsUqngMfcysQECvp7TMU37P9gX](https://mempool.space/address/16eAGJEjqsUqngMfcysQECvp7TMU37P9gX) ‎‎0.00002148 BTC, initial consolidation address  
+[16ArP3SPFJwq6X5fTZRLu2UcEAn1dXVqdF](https://mempool.space/address/16ArP3SPFJwq6X5fTZRLu2UcEAn1dXVqdF) ‎0 BTC, initial consolidation address  
+[1HRAprcXCzx1YqYv7dcCcDzf3vYVGPv3b2](https://mempool.space/address/1HRAprcXCzx1YqYv7dcCcDzf3vYVGPv3b2) ‎526.95226408 BTC, Change address after Kraken transfers (jul 17)  
+[18vjnBHWAxU4CPGPqF7Gp9JyqdVBHDct9b](https://mempool.space/address/18vjnBHWAxU4CPGPqF7Gp9JyqdVBHDct9b) ‎0 BTC, Change address after Kraken transfers (jul 17), empty
+[15yPUCW9XRmPpNtQkzYogtfgi99pk8rvwe](https://mempool.space/address/15yPUCW9XRmPpNtQkzYogtfgi99pk8rvwe) 0.00002146 BTC, Change address after Bitstamp transfers (jul 23)
+[12Gws9EsEiDZLinu2SWkHdk7TcobjTau9u](https://mempool.space/address/12Gws9EsEiDZLinu2SWkHdk7TcobjTau9u) 32'371.32120778 BTC, Change address after july 24 transfers
+
+#### Payouts until 2024/07/24 CET:
+
+Bitbank (confirmed): 1PKGGMh5cGYMMJq32aVY8gfCzsmUiszwzV  
+SBI VC TRADE (confirmed): bc1qkjcuq5hgqd3y735vxl52htd2ja9xvyv8cq3gllhpwp23c3d7tdyq2ug68h  
+Kraken (confirmed): 3JQieEzccKjFS34oW8KZSGBDndiH1YyFrE
+Bitstamp (confirmed): 3QVD5HvPJLbQhDsDdoDZtW9cwZG3mEFzRN and 1JKMSShPMSQ2LPHf6fFsgweMVXXeMaSBVD  
+??? (to be confirmed): ???
+
 ## UPDATE 2024/07/23
 
 On July 23, 2024 the Mtgox trustee did again send out funds from the tracked addresses. As usual, outgoing payments were sent to 1JbezDVd9VsK9o1Ga9UqLydeuEvhKLAPs6 before getting onpassed.
