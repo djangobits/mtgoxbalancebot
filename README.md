@@ -17,7 +17,7 @@ On July 24, 2024, the trustee again initiated a BTC transfer: [c635fabb484db06fc
 
 Bitbank (confirmed): 1PKGGMh5cGYMMJq32aVY8gfCzsmUiszwzV  
 SBI VC TRADE (confirmed): bc1qkjcuq5hgqd3y735vxl52htd2ja9xvyv8cq3gllhpwp23c3d7tdyq2ug68h  
-Kraken (confirmed): 3JQieEzccKjFS34oW8KZSGBDndiH1YyFrE
+Kraken (confirmed): 3JQieEzccKjFS34oW8KZSGBDndiH1YyFrE  
 Bitstamp (confirmed): 3QVD5HvPJLbQhDsDdoDZtW9cwZG3mEFzRN and 1JKMSShPMSQ2LPHf6fFsgweMVXXeMaSBVD  
 ??? (to be confirmed): ???
 
@@ -34,7 +34,7 @@ Later the same day, Kraken credited BTC and BCH to the creditors who chose Krake
 
 Bitbank (confirmed): 1PKGGMh5cGYMMJq32aVY8gfCzsmUiszwzV  
 SBI VC TRADE (confirmed): bc1qkjcuq5hgqd3y735vxl52htd2ja9xvyv8cq3gllhpwp23c3d7tdyq2ug68h  
-Kraken (confirmed): 3JQieEzccKjFS34oW8KZSGBDndiH1YyFrE
+Kraken (confirmed): 3JQieEzccKjFS34oW8KZSGBDndiH1YyFrE  
 Bitstamp (confirmed): 3QVD5HvPJLbQhDsDdoDZtW9cwZG3mEFzRN and 1JKMSShPMSQ2LPHf6fFsgweMVXXeMaSBVD  
 
 #### Remaining funds under control of the trustee per 2024/07/23 CET:
