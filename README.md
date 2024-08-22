@@ -6,21 +6,21 @@ On August 21, 2024 more BTC was sent through the staging wallet. First coming fr
 
 Remaining under control of trustee per August 22, 2024:
 
-[1HeHLv7ZRFxWUVjuWkWT2D5XFbXXvHoV68](https://mempool.space/address/1HeHLv7ZRFxWUVjuWkWT2D5XFbXXvHoV68) ‎0.00000546 BTC, initial consolidation address, emptied
+[1HeHLv7ZRFxWUVjuWkWT2D5XFbXXvHoV68](https://mempool.space/address/1HeHLv7ZRFxWUVjuWkWT2D5XFbXXvHoV68) ‎0.00000546 BTC, initial consolidation address, emptied  
 [1AsHPP7WcGnDLzxW2bUa2FcbJP3eZVEqpx](https://mempool.space/address/1AsHPP7WcGnDLzxW2bUa2FcbJP3eZVEqpx) ‎‎0.00030956 BTC, initial consolidation address, emptied  
-[16eAGJEjqsUqngMfcysQECvp7TMU37P9gX](https://mempool.space/address/16eAGJEjqsUqngMfcysQECvp7TMU37P9gX) ‎‎0.00002148 BTC, initial consolidation address, emptied
-[15yPUCW9XRmPpNtQkzYogtfgi99pk8rvwe](https://mempool.space/address/15yPUCW9XRmPpNtQkzYogtfgi99pk8rvwe) 0.00002146 BTC, Change address after Bitstamp transfers (jul 23) emptied
-[1HRAprcXCzx1YqYv7dcCcDzf3vYVGPv3b2](https://mempool.space/address/1HRAprcXCzx1YqYv7dcCcDzf3vYVGPv3b2) ‎526.95226408 BTC, Change address after Kraken transfers (jul 17) 
-[1PuQBjpPfAuANa3KM4HBdfF98BC7wnWhTb](https://mempool.space/address/1PuQBjpPfAuANa3KM4HBdfF98BC7wnWhTb) 12000.14837336 BTC, Change address after august 21 transfers
-[12Gws9EsEiDZLinu2SWkHdk7TcobjTau9u](https://mempool.space/address/12Gws9EsEiDZLinu2SWkHdk7TcobjTau9u) 32'371.32120778 BTC, Change address after july 24 transfers
+[16eAGJEjqsUqngMfcysQECvp7TMU37P9gX](https://mempool.space/address/16eAGJEjqsUqngMfcysQECvp7TMU37P9gX) ‎‎0.00002148 BTC, initial consolidation address, emptied  
+[15yPUCW9XRmPpNtQkzYogtfgi99pk8rvwe](https://mempool.space/address/15yPUCW9XRmPpNtQkzYogtfgi99pk8rvwe) 0.00002146 BTC, Change address after Bitstamp transfers (jul 23) emptied  
+[1HRAprcXCzx1YqYv7dcCcDzf3vYVGPv3b2](https://mempool.space/address/1HRAprcXCzx1YqYv7dcCcDzf3vYVGPv3b2) ‎526.95226408 BTC, Change address after Kraken transfers (jul 17)  
+[1PuQBjpPfAuANa3KM4HBdfF98BC7wnWhTb](https://mempool.space/address/1PuQBjpPfAuANa3KM4HBdfF98BC7wnWhTb) 12000.14837336 BTC, Change address after august 21 transfers  
+[12Gws9EsEiDZLinu2SWkHdk7TcobjTau9u](https://mempool.space/address/12Gws9EsEiDZLinu2SWkHdk7TcobjTau9u) 32'371.32120778 BTC, Change address after july 24 transfers  
 
 #### Payouts until 2024/08/22 CET:
 
 Bitbank (confirmed): 1PKGGMh5cGYMMJq32aVY8gfCzsmUiszwzV  
 SBI VC TRADE (confirmed): bc1qkjcuq5hgqd3y735vxl52htd2ja9xvyv8cq3gllhpwp23c3d7tdyq2ug68h  
 Kraken (confirmed): 3JQieEzccKjFS34oW8KZSGBDndiH1YyFrE  
-Bitstamp (confirmed): 3QVD5HvPJLbQhDsDdoDZtW9cwZG3mEFzRN and 1JKMSShPMSQ2LPHf6fFsgweMVXXeMaSBVD and 3HXo1ez8mbfTkVKGcarHEeGNsurTLwsuXH
-Bitgo (to be confirmed): bc1q26tsxc0ge7phvcr2kyczexqf5pcj8rk79cqk90h34c30dn9dskeq3gmw3f and bc1q48a5tjhdjtkfv8zv6tj68767h8lgep9dpx0emrkx0yhhmum7wscs95ft36
+Bitstamp (confirmed): 3QVD5HvPJLbQhDsDdoDZtW9cwZG3mEFzRN and 1JKMSShPMSQ2LPHf6fFsgweMVXXeMaSBVD and 3HXo1ez8mbfTkVKGcarHEeGNsurTLwsuXH  
+Bitgo (to be confirmed): bc1q26tsxc0ge7phvcr2kyczexqf5pcj8rk79cqk90h34c30dn9dskeq3gmw3f and bc1q48a5tjhdjtkfv8zv6tj68767h8lgep9dpx0emrkx0yhhmum7wscs95ft36  
 
 
 ## UPDATE 2024/07/24
