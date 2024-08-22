@@ -9,9 +9,7 @@ Remaining under control of trustee per August 22, 2024:
 [1HeHLv7ZRFxWUVjuWkWT2D5XFbXXvHoV68](https://mempool.space/address/1HeHLv7ZRFxWUVjuWkWT2D5XFbXXvHoV68) ‎0.00000546 BTC, initial consolidation address, emptied
 [1AsHPP7WcGnDLzxW2bUa2FcbJP3eZVEqpx](https://mempool.space/address/1AsHPP7WcGnDLzxW2bUa2FcbJP3eZVEqpx) ‎‎0.00030956 BTC, initial consolidation address, emptied  
 [16eAGJEjqsUqngMfcysQECvp7TMU37P9gX](https://mempool.space/address/16eAGJEjqsUqngMfcysQECvp7TMU37P9gX) ‎‎0.00002148 BTC, initial consolidation address, emptied
-[18vjnBHWAxU4CPGPqF7Gp9JyqdVBHDct9b](https://mempool.space/address/18vjnBHWAxU4CPGPqF7Gp9JyqdVBHDct9b) ‎0 BTC, Change address after Kraken transfers (jul 17), emptied
 [15yPUCW9XRmPpNtQkzYogtfgi99pk8rvwe](https://mempool.space/address/15yPUCW9XRmPpNtQkzYogtfgi99pk8rvwe) 0.00002146 BTC, Change address after Bitstamp transfers (jul 23) emptied
-[1MUQEiiQEckiBkrQswqq225nQTRWJ5SXZZ](https://mempool.space/address/1MUQEiiQEckiBkrQswqq225nQTRWJ5SXZZ) 0 BTC, change address after July 31, transfers, now empty
 [1HRAprcXCzx1YqYv7dcCcDzf3vYVGPv3b2](https://mempool.space/address/1HRAprcXCzx1YqYv7dcCcDzf3vYVGPv3b2) ‎526.95226408 BTC, Change address after Kraken transfers (jul 17) 
 [1PuQBjpPfAuANa3KM4HBdfF98BC7wnWhTb](https://mempool.space/address/1PuQBjpPfAuANa3KM4HBdfF98BC7wnWhTb) 12000.14837336 BTC, Change address after august 21 transfers
 [12Gws9EsEiDZLinu2SWkHdk7TcobjTau9u](https://mempool.space/address/12Gws9EsEiDZLinu2SWkHdk7TcobjTau9u) 32'371.32120778 BTC, Change address after july 24 transfers
