@@ -1,3 +1,30 @@
+## UPDATE 2024/08/22
+
+On July 31, 2024 the trustee initiated more transfers: [2d7dc3bbb042645e33eff25b0c816a929b97027af5cc86acda40f754b65ca079](https://mempool.space/tx/2d7dc3bbb042645e33eff25b0c816a929b97027af5cc86acda40f754b65ca079) did send 13'264.84448801 BTC to 1MUQEiiQEckiBkrQswqq225nQTRWJ5SXZZ and 33'963.88849617 BTC to 1JbezDVd9VsK9o1Ga9UqLydeuEvhKLAPs6 which we already know as the staging wallet, where utxos are prepared to be sent to exchanges. We can assume that 1MUQE...SXZZ was a change address. From the staging address this transaction did send the fund forwards: [58ca75195a928c7bbe5aa28421fccf7ddc6cdbeb0cda53c6b3a7bdc3ba91c0ed](https://mempool.space/tx/58ca75195a928c7bbe5aa28421fccf7ddc6cdbeb0cda53c6b3a7bdc3ba91c0ed) to two addresses: around 33K to bc1q26tsxc0ge7phvcr2kyczexqf5pcj8rk79cqk90h34c30dn9dskeq3gmw3f and 858 BTC to 1FJxu4Zn1aA332YnZXtvJ4YsPRs9mtg4rC. From 1FJxu4Zn1aA332YnZXtvJ4YsPRs9mtg4rC all funds were then onpassed to bc1q48a5tjhdjtkfv8zv6tj68767h8lgep9dpx0emrkx0yhhmum7wscs95ft36. Due to various communications in the aftermath (from various BitGo users), these addresses are most likely addresses from BitGo, one of the exchanges on the trustees llist.
+
+On August 21, 2024 more BTC was sent through the staging wallet. First coming from the recent change address: [20548196d6169a8d9999a83ba42b5a749f2d80d23a536888f2017c26a3ee9aa4](https://mempool.space/tx/20548196d6169a8d9999a83ba42b5a749f2d80d23a536888f2017c26a3ee9aa4), 1264.69609657 BTC was split off and sent to 3HXo1ez8mbfTkVKGcarHEeGNsurTLwsuXH while 12000.14837336 BTC went to 1PuQBjpPfAuANa3KM4HBdfF98BC7wnWhTb. According to Arkham, 3HXo1ez8mbfTkVKGcarHEeGNsurTLwsuXH is a Bitstamp address. So we can assume that 1PuQBjpPfAuANa3KM4HBdfF98BC7wnWhTb is a new change address. 
+
+Remaining under control of trustee per August 22, 2024:
+
+[1HeHLv7ZRFxWUVjuWkWT2D5XFbXXvHoV68](https://mempool.space/address/1HeHLv7ZRFxWUVjuWkWT2D5XFbXXvHoV68) ‎0.00000546 BTC, initial consolidation address, emptied
+[1AsHPP7WcGnDLzxW2bUa2FcbJP3eZVEqpx](https://mempool.space/address/1AsHPP7WcGnDLzxW2bUa2FcbJP3eZVEqpx) ‎‎0.00030956 BTC, initial consolidation address, emptied  
+[16eAGJEjqsUqngMfcysQECvp7TMU37P9gX](https://mempool.space/address/16eAGJEjqsUqngMfcysQECvp7TMU37P9gX) ‎‎0.00002148 BTC, initial consolidation address, emptied
+[18vjnBHWAxU4CPGPqF7Gp9JyqdVBHDct9b](https://mempool.space/address/18vjnBHWAxU4CPGPqF7Gp9JyqdVBHDct9b) ‎0 BTC, Change address after Kraken transfers (jul 17), emptied
+[15yPUCW9XRmPpNtQkzYogtfgi99pk8rvwe](https://mempool.space/address/15yPUCW9XRmPpNtQkzYogtfgi99pk8rvwe) 0.00002146 BTC, Change address after Bitstamp transfers (jul 23) emptied
+[1MUQEiiQEckiBkrQswqq225nQTRWJ5SXZZ](https://mempool.space/address/1MUQEiiQEckiBkrQswqq225nQTRWJ5SXZZ) 0 BTC, change address after July 31, transfers, now empty
+[1HRAprcXCzx1YqYv7dcCcDzf3vYVGPv3b2](https://mempool.space/address/1HRAprcXCzx1YqYv7dcCcDzf3vYVGPv3b2) ‎526.95226408 BTC, Change address after Kraken transfers (jul 17) 
+[1PuQBjpPfAuANa3KM4HBdfF98BC7wnWhTb](https://mempool.space/address/1PuQBjpPfAuANa3KM4HBdfF98BC7wnWhTb) 12000.14837336 BTC, Change address after august 21 transfers
+[12Gws9EsEiDZLinu2SWkHdk7TcobjTau9u](https://mempool.space/address/12Gws9EsEiDZLinu2SWkHdk7TcobjTau9u) 32'371.32120778 BTC, Change address after july 24 transfers
+
+#### Payouts until 2024/08/22 CET:
+
+Bitbank (confirmed): 1PKGGMh5cGYMMJq32aVY8gfCzsmUiszwzV  
+SBI VC TRADE (confirmed): bc1qkjcuq5hgqd3y735vxl52htd2ja9xvyv8cq3gllhpwp23c3d7tdyq2ug68h  
+Kraken (confirmed): 3JQieEzccKjFS34oW8KZSGBDndiH1YyFrE  
+Bitstamp (confirmed): 3QVD5HvPJLbQhDsDdoDZtW9cwZG3mEFzRN and 1JKMSShPMSQ2LPHf6fFsgweMVXXeMaSBVD and 3HXo1ez8mbfTkVKGcarHEeGNsurTLwsuXH
+Bitgo (to be confirmed): bc1q26tsxc0ge7phvcr2kyczexqf5pcj8rk79cqk90h34c30dn9dskeq3gmw3f and bc1q48a5tjhdjtkfv8zv6tj68767h8lgep9dpx0emrkx0yhhmum7wscs95ft36
+
+
 ## UPDATE 2024/07/24
 
 On July 24, 2024, the trustee again initiated a BTC transfer: [c635fabb484db06fca4e6432ba222601051739bef02e3416972eaca726c476be](https://mempool.space/tx/c635fabb484db06fca4e6432ba222601051739bef02e3416972eaca726c476be). Same pattern as before: One output going to 1JbezDVd9VsK9o1Ga9UqLydeuEvhKLAPs6, one supposedly going to a new change address: 12Gws9EsEiDZLinu2SWkHdk7TcobjTau9u. I will update this post, once the output of 1JbezDVd9VsK9o1Ga9UqLydeuEvhKLAPs6 is executed.
